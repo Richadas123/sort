@@ -2,6 +2,7 @@
   "name": "sorting",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://richadas123.github.io/sort",
   "dependencies": {
     "@auth0/auth0-react": "^2.3.0",
     "react": "^18.2.0",
